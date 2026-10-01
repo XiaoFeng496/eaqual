@@ -32,7 +32,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#include "sndfile.h"
+#include "wav_in.h"
 #include "libEAQUAL.h"
 #include "EAQUALMain.h"
 #include "zErrorCodes.h"

@@ -30,7 +30,7 @@
 #include <stdio.h>
 #include <time.h>
 
-#include "sndfile.h"
+#include "wav_in.h"
 #include "libEAQUAL.h"
 #include "zErrorCodes.h"
 #include "EAQUALMain.h"

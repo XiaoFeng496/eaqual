@@ -31,6 +31,8 @@
 #if !defined(__EAQUALMAIN_HEADER_INCLUDED__)
 #define __EAQUALMAIN_HEADER_INCLUDED__
 
+#include <cstdio>
+
 /////////////////////////////////////////////////////////////////////////////////////
 //  @struct:        stOutputPaths
 //  @members:       - char          *pcResult               analysis output of whole file
